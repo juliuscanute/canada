@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NewsFeed</string>
+    <string name="feed_not_found">Oops! Feed not found!</string>
+    <string name="no_feeds">Unable to fetch feeds.</string>
+    <string name="first_item">Beavers</string>
+</resources>
